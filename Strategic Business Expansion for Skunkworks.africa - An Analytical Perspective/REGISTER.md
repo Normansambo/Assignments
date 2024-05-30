@@ -15,7 +15,7 @@ This document maintains a list of students who have enrolled in the Strategic Bu
 | Student ID | Name                | Email Address             | Submission Status | Project Link                                   |
 |------------|---------------------|---------------------------|-------------------|------------------------------------------------|
 | 001        | ...                 | ...                       | Not yet Submitted | [Link to GitHub repo](https://github.com)      |
-| ...        | ...                 | ...                       | ...               | ...                                            |
+| 009        | Thobile             | thobilesema@gmail.com     | Not yet Submitted | ...                                            |
 | ...        | ...                 | ...                       | ...               | ...                                            |
 | ...        | ...                 | ...                       | ...               | ...                                            |
 | ...        | ...                 | ...                       | ...               | ...                                            |
