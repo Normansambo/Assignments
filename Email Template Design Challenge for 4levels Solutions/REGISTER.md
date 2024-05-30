@@ -9,5 +9,5 @@ Please add your details to the table below if you are participating in the Email
 | ThatCodeGuySA       | thatcodeguysa@gmail.com       | Email Template Design Challenge for 4levels Solutions | 04/19/2024   |
 |  Brandon Mloyi      | brandon@skunkworks.africa     |                         |                |
 | Andre Mwamba        |   mwambaandy06@gmail.com      |Email template 4levels   |                |
-| tnsema              |                               |                         | 30/05/2024     |
+| tnsema              | thobilesema@gmail.com         |                         | 30/05/2024     |
 **Note:** Please update the table by adding a new row for your entry. Do not modify or delete entries from other participants.
