@@ -63,10 +63,9 @@ Good luck! 🍀
 
 ## 🧑‍💻 Who's Registered
 
-| Full Name      | GitHub Username | Date of Registration |
-|----------------|------------------|----------------------|
-| Example Name   | exampleuser      | 2024-06-01           |
-| (Your Name)    | (Your GitHub Username) | (Date)        |
+This section will be dynamically updated based on the entries in the `REGISTER.md` file.
+
+To register, please follow the format provided in `REGISTER.md` and submit a pull request with your details.
 
 ---
 
