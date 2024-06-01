@@ -1,8 +1,3 @@
-Sure! Here's an enhanced version of the `README.md` with more visual elements to make it look more engaging and cool:
-
-## README.md
-
-```markdown
 # 🌐 Website Analysis and Improvement Assignment
 
 ![Assignment Status](https://img.shields.io/badge/Assignment-Active-brightgreen)
@@ -79,6 +74,3 @@ Good luck! 🍀
 ![GitHub forks](https://img.shields.io/github/forks/Pero-s-Academy/Assignments?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Pero-s-Academy/Assignments?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/Pero-s-Academy/Assignments?style=social)
-```
-
-This version includes emoji icons for different sections to make the document more visually appealing and easier to navigate. It also maintains the structured format to ensure clarity and completeness.
