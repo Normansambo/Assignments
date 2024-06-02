@@ -33,3 +33,5 @@ Please fill in the following details and submit a pull request with your changes
 |----------------|------------------|----------------------|
 | Example Name   | exampleuser      | 2024-06-02           |
 | (Your Name)    | (Your GitHub Username) | (Date)        |
+   Inacio          MrPlenty8               2024-06-02
+
