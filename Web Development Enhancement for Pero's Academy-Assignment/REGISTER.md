@@ -7,7 +7,7 @@ Welcome to the participation register for the Web Development Enhancement Assign
 | Student Name          | GitHub Username      | Date Registered  | Date of Submission |
 |-----------------------|----------------------|------------------|--------------------|
 | Brandon Mloyi         |  mloyi               | 14/04/2024       | [Date]             | 
-| [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
+| Inacio Quinzage           | MrPlenty8    |     02/06/2024         | [Date]             |
 | [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
 | [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
 | [Full Name]           | [GitHub Username]    | [Date]           | [Date]             |
