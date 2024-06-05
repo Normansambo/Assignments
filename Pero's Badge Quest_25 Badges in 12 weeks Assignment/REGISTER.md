@@ -16,7 +16,7 @@ This document maintains a list of students who have enrolled in the Pero's Badge
 |------------|---------------------|---------------------------|-------------------|------------------------------------------------|
 | 001        | ...                 | ...                       | Not yet Submitted | [Link to GitHub repo](https://github.com)      |
 | 009        | tnsema              | thobilesema@gmail.com     | Started           | [Thobile Credly](https://www.credly.com/users/thobile-sema) |
-| ...        | ...                 | ...                       | ...               | ...                                            |
+| 011        | NMShibambu          | nmshibambu@gmail.com      | Started           | [Nicholas Credly](https://www.credly.com/users/nicholas-shibambu/badges) |
 | ...        | ...                 | ...                       | ...               | ...                                            |
 | ...        | ...                 | ...                       | ...               | ...                                            |
 | ...        | ...                 | ...                       | ...               | ...                                            |
