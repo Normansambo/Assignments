@@ -2,7 +2,7 @@
 | --- | --- | --- | --- |
 | [Your Full Name] | [Your Email Address] | [Your Submission Title] | [MM/DD/YYYY] |
 | Inacio            | inacio@skunkworks.africa | progress           | 06/02/2024  |
-| --- | --- | --- | --- |
+| Nicholas          | nmshibambu@gmail.com     | progress           | 12/06/2024  |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
 | --- | --- | --- | --- |
