@@ -10,7 +10,7 @@ Please register for the assignment by completing the following table:
 |Elie Loji |elie@slunkworks.africa |Elliott29 |https://www.upwork.com/freelancers/~013978c0dcf47453e6 |https://www.fiverr.com/lojielie29?public_mode=true                                | 
 |Thobile Sema|thobilesema@gmail.com|tnsema              |https://www.upwork.com/freelancers/~013ccca4d4ddac29a4?viewMode=1                                  |https://www.fiverr.com/tnsema?public_mode=true                                
 |Phethile Mahlangu|Phethilemahlangu25@gmail.com|MahlanguPZ|                     |                                                        |                                |
-|          |                      |                     |                                                        |                                |          
+|Nicholas Shibambu|nmshibambu@gmail.com          |NMShibambu           |                                                        |                                |          
 |          |                      |                     |                                                        |                                | 
 
 ### Submission
