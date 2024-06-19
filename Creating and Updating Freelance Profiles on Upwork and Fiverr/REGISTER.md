@@ -11,7 +11,7 @@ Please register for the assignment by completing the following table:
 |Thobile Sema|thobilesema@gmail.com|tnsema              |https://www.upwork.com/freelancers/~013ccca4d4ddac29a4?viewMode=1                                  |https://www.fiverr.com/tnsema?public_mode=true                                
 |Phethile Mahlangu|Phethilemahlangu25@gmail.com|MahlanguPZ|                     |                                                        |                                |
 |Nicholas Shibambu|nmshibambu@gmail.com          |NMShibambu           |                                                        |                                |          
-|Norman Sambo|normansambo26@gmail.com|Normansambo       |https://www.upwork.com/freelancers/~01985a8f0af45de53f|                                | 
+|Norman Sambo|normansambo26@gmail.com|Normansambo       |https://www.upwork.com/freelancers/~01985a8f0af45de53f| https://www.fiverr.com/normansambo?up_rollout=true | 
 
 ### Submission
 Submit the completed registration form by creating an issue in the `Assignments` repo with the title `[Registration] Freelance Profile Assignment - <Your Name>`. Include the filled-out registration form in the issue description.
